@@ -10,3 +10,5 @@ Recently interested in static analysis and vulnerabilities auto detection.
 A member of Timeline Security Group.
 
 ![tls](img/tls.jpg)
+
+<img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=HACHp1&show_icons=true" align="right" height="150" />
