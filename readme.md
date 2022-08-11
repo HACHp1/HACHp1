@@ -1,9 +1,9 @@
 ![hachp1](img/hachp1.png)
 
 Hello guys.  
-It's HACHp1 here.
+It's HACHp1 there.
 
-Focus on Web Security and Machine Learning in Security.
+Focusing on Web Security and Machine Learning in Security.
 
 Recently interested in static analysis and vulnerabilities auto detection.
 
