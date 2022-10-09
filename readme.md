@@ -1,7 +1,7 @@
 ![hachp1](img/hachp1.png)
 
 Hello guys.  
-It's HACHp1 there.
+It's HACHp1 speaking.
 
 Focusing on Web Security and Machine Learning in Security.
 
